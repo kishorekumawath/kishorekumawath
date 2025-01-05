@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://sahspeaks-app.netlify.app/](https://sahspeaks-app.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://kishorekumawath.github.io/portfolio/](https://kishorekumawath.github.io/portfolio/)
 
 - 💬 Ask me about **MERN**
 
